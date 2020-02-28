@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=P1Emulator
+Terminal=false
+Type=Application
+Exec=python3 /home/pi/P1Generator/P1emulator.py
+Icon=/home/pi/P1Generator/smartmetericon.png
